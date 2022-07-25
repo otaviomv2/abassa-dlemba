@@ -145,6 +145,7 @@ aside h3{
 aside>ul{
     list-style-type:'\2714\00A0';
     list-style-position: inside;
+    text-decoration:none;
 }
 div.video{
     background-color: var(--cor0);
